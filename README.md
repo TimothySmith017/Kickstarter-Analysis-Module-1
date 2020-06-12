@@ -3,5 +3,4 @@
 ---
 In this spreadsheet, I took the data over all of the kickstarter campaigns and filtered it to show us the results for plays in Great Britain. I also took a look at different goal amounts, length of time, when the kickstarter began, and the average number of patrons for each campaign.
 ---
----
 From the results, there are three clear conclusions that can be drawn from the data.
