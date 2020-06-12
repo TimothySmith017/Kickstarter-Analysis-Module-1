@@ -1,2 +1,7 @@
-# Kickstarter-Analysis-Module-1
-Performing analysis on kickstarter data - Module 1
+### Analysis of Kickstarter plans
+## A brief analyses over what made kickstarter campaigns successful or unsuccessful.
+---
+In this spreadsheet, I took the data over all of the kickstarter campaigns and filtered it to show us the results for plays in Great Britain. I also took a look at different goal amounts, length of time, when the kickstarter began, and the average number of patrons for each campaign.
+---
+---
+From the results, there are three clear conclusions that can be drawn from the data.
